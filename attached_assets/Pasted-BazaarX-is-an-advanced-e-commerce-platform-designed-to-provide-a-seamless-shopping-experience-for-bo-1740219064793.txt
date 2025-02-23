@@ -1,0 +1,47 @@
+BazaarX is an advanced e-commerce platform designed to provide a seamless shopping experience for both vendors and customers. It includes features such as real-time chat, video call, location-based marketplace, category-based product listings, and a vendor dashboard for store management. The website will follow a consistent color scheme of blue, white, and light grey across all pages.
+
+User Authentication and Registration
+Signup Page (For New Users)
+
+Username
+First Name and Last Name
+Gender (Male, Female, Prefer Not to Say)
+Email and Mobile Number
+Home Address (Required for all users)
+Category Selection (Vendor or Customer)
+Shop Address (Only for Vendors)
+Shop Category (Only for Vendors, options include Grocery, Clothing, Toys, Electronics, Furniture, Home Decor)
+Password and Confirm Password
+Login Process
+
+Users enter Username and Password to log in
+Vendors are redirected to the Vendor Dashboard
+Customers are redirected to the Marketplace Page
+Forgot Password option for resetting passwords via email or OTP
+Vendor Panel and Dashboard Features
+Vendors can set a shop name, which will be displayed to customers
+Vendors can add new products, including product name, price, stock quantity, images, and description
+Vendors can edit or delete products
+Vendors can view store analytics such as total sales, orders, and revenue
+Customer Shopping Experience
+Region-Based Store Listings
+
+A popup will appear asking customers to select their region
+Customers enter a city name, and popular markets in that city will be displayed (for example, Karol Bagh, Chandni Chowk, Janpath)
+Category-Based Shopping
+
+After selecting a market, customers will see product categories such as Electronics, Clothing, Grocery, Toys, and Furniture
+Selecting a category will show a list of vendors offering that category in the selected market
+Store Listings and Product Selection
+
+Clicking on a store will display all products added by the vendor
+Customers can view product details, images, stock availability, and prices
+A "Chat with Vendor" button will allow real-time messaging or video calls
+An "Add to Cart" button will allow customers to add products to their shopping cart
+Cart and Checkout Process
+Customers can access their cart through the "My Cart" button in the navbar
+The cart will allow users to increase or decrease product quantity, remove products, and see total price calculations
+Proceed to Checkout
+Customers enter delivery details if different from home address
+Choose a payment method (Cash on Delivery, UPI, Debit/Credit Card, Wallets)
+Order confirmation page appears after successful payment
